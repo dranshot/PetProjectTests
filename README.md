@@ -31,3 +31,9 @@ Administración de pruebas en Visual Studio Team Services: https://youtu.be/oO1w
 - Detalle de requerimientos: Pet Project CUS.docx
 - Casos de prueba: Pet Project CP.docx
 - Técnica de clase equivalente: Clase-equivalente.xlsx
+
+
+
+# Capturas
+## Web
+
